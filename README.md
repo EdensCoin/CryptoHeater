@@ -1,2 +1,2 @@
 # CryptoHeater
-Make a round "SmokeStack" Design using fullsize GPUs and MXM cards!
+Make a round Cooling Tower "SmokeStack" Design using fullsize GPUs and MXM cards!
